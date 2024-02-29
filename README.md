@@ -1,0 +1,2 @@
+# javaAdapter
+Java Adapter Samples
